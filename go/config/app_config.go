@@ -40,7 +40,7 @@ func Initialize() {
 
 	DefaultConfig = AppConfig{
 		DVWAURL:      "https://dvwa1.bolelinks.com",
-		DVWAHOST:     "dvwa1.bolelinks.com,
+		DVWAHOST:     "dvwa1.bolelinks.com",
 		JUICESHOPURL: "https://juiceshop.bolelinks.com",
 		BANKURL:      "https://banking.bolelinks.com/bank.html",
 		SPEEDTESTURL: "https://speed.bolelinks.com",
