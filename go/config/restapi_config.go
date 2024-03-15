@@ -29,7 +29,7 @@ var (
 	PolicyServerPool                    = PoolName
 	PolicyTrafficLog                    = "enable"
 	PolicyHTTPSService                  = "HTTPS"
-	//PolicyCertificate                   = "speedtest.canadaeast.cloudapp.azure.com"
+	//PolicyCertificate                   = "speed.bolelinks.com"
 )
 
 // Data Types Struct
